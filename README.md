@@ -1,5 +1,5 @@
 # AI-Based Smart Data Organizer System  
-**Automated File Classification & Secure Storage**  
+**The AI-Based Smart Data Organizer System is an intelligent solution that automatically categorizes, analyzes, and stores files (images, Word docs, Excel sheets, PDFs, etc.) using AI-driven classification. It ensures seamless organization with secure cloud storage or downloadable ZIP archives.**  
 
 ![Banner](https://via.placeholder.com/800x200?text=AI+Data+Organizer+System)
 
